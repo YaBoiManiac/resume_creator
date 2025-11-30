@@ -1,0 +1,114 @@
+{
+  "personal_info": {
+    "name": "Richard Saville",
+    "email": "richardsaville@proton.me",
+    "phone": "0478077877",
+    "location": "Ballarat, Vic",
+    "linkedin": "",
+    "portfolio": ""
+  },
+  "job_experience": [
+    {
+      "id": 1,
+      "title": "Freelance Programmer",
+      "company": "Self Employed",
+      "position": "Programmer",
+      "start_date": "2020-02",
+      "end_date": "Present",
+      "duties": [
+        "Collaborated with small businesses and gaming communities to debug and enhance existing codebases",
+        "Improved overall performance and user experience through systematic code optimization",
+        "Delivered custom solutions using multiple programming languages including C#, JavaScript, and Python"
+      ],
+      "achievements": []
+    },
+    {
+      "id": 2,
+      "title": "Lead Developer",
+      "company": "Fat Duck Gaming",
+      "position": "Lead Developer",
+      "start_date": "2019-04",
+      "end_date": "2024-02",
+      "duties": [
+        "Developed and maintained custom framework for modded roleplay community, creating the largest server in OCE region",
+        "Led multidisciplinary team of developers and artists, overseeing project lifecycles and facilitating agile methodologies",
+        "Optimized server performance by identifying bottlenecks and streamlining code, reducing lag by 60%",
+        "Ensured timely delivery of features while maintaining high quality standards"
+      ],
+      "achievements": []
+    },
+    {
+      "id": 3,
+      "title": "Computer Technician",
+      "company": "Small Business Servers Australia",
+      "position": "Lead Computer Technician",
+      "start_date": "2020-05",
+      "end_date": "2021-07",
+      "duties": [
+        "Managed multiple aspects of IT support, including automating andoptimizing PC setups using basic scripts, which improved efficiencyand reduced setup time.",
+        "Conducted data backup and storage solutions, ensuring dataintegrity and accessibility for clients.",
+        "Provided online technical support, resolving issues for clientspromptly and maintaining high customer satisfaction.",
+        "Performed PC repairs, stock management, and purchasing, ensuringthat inventory was well-maintained and adequately supplied forbusiness needs."
+      ],
+      "achievements": []
+    },
+    {
+      "id": 4,
+      "title": "Delivery Driver",
+      "company": "Coles",
+      "position": "Delivery Driver",
+      "start_date": "2023-01",
+      "end_date": "2024-03",
+      "duties": [
+        "Safely and efficiently delivered groceries to customers’ homes,ensuring timely and accurate service.",
+        "Assisted with the loading and unloading of delivery vehicles, maintaining a high level of organization and care for products.",
+        "Utilized GPS and route planning tools to optimize delivery routes and minimize delays."
+      ],
+      "achievements": []
+    },
+    {
+      "id": 5,
+      "title": "Blind Technician",
+      "company": "Blind Concepts",
+      "position": "Blind Installer / Technician",
+      "start_date": "2016-06",
+      "end_date": "2018-05",
+      "duties": [
+        "Installed a wide range of blinds, awnings, and window coverings in residential and commercial properties.",
+        "Performed precise measurements to ensure accurate fit and smooth operation of all installed products.",
+        "Conducted repairs, maintenance, and adjustments on existing blinds and awnings to restore proper functionality.",
+        "Provided on-site customer support, offering product recommendations and demonstrating correct usage and care.",
+        "Ensured all installations complied with safety standards and company quality expectations."
+      ],
+      "achievements": []
+    }
+  ],
+  "education": [],
+  "skills": [
+    "Git",
+    "Linux",
+    "Vite",
+    "Electron",
+    "Tauri",
+    "C#",
+    "C++",
+    "Lua",
+    "Javascript",
+    "Java",
+    "Python",
+    "Power Tools",
+    "Mechanical Knowledge",
+    "Manual Drivers License",
+    "Computers"
+  ],
+  "certifications": [],
+  "interests_and_background": [
+    "Own and ride motorcycles, perform own maintenance and repairs",
+    "Build and customize PCs, keeping up with latest hardware and technology trends",
+    "Active in gaming communities, particularly interested in game development and modding",
+    "Hands-on experience with various tools and mechanical systems",
+    "Self-taught programmer who learns new technologies independently",
+    "Enjoy problem-solving and troubleshooting technical issues",
+    "Interest in automotive and mechanical work"
+  ]
+}

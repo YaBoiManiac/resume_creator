@@ -24,7 +24,6 @@ wheels/
 venv/
 env/
 ENV/
-.venv
 
 # Environment Variables
 .env
@@ -37,12 +36,8 @@ ENV/
 *.swo
 *~
 
-# Data files (user-specific)
-data/user_data.json
-data/*.json
-
 # Generated resumes
-resumes/
+output/
 *.pdf
 *.docx
 
